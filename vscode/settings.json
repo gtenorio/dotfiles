@@ -48,4 +48,6 @@
         "input.background": "#171721",
         "editorWidget.background": "#2a2a3a"
     },
+    "window.zoomLevel": 2.3,
+    "window.titleBarStyle": "custom",
 }

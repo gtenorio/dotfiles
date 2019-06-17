@@ -1,0 +1,5 @@
+rofi.width: 800
+rofi.lines: 20
+rofi.location: 0
+rofi.padding: 40
+rofi.theme: Arc-Dark-Gio
