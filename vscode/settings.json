@@ -45,9 +45,10 @@
         "peekViewResult.matchHighlightBackground": "#2f2f31",
         "peekViewResult.selectionBackground": "#171721",
         "statusBar.background": "#1b1b25",
+	"statusBar.noFolderBackground": "#1b1b25",
         "input.background": "#171721",
         "editorWidget.background": "#2a2a3a"
     },
     "window.zoomLevel": 2.3,
-    "window.titleBarStyle": "custom",
+    "window.titleBarStyle": "custom"
 }
